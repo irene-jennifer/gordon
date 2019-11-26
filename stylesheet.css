@@ -1,0 +1,10 @@
+.jumbotron{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ndCb5Roc_NIvz-EzKnXc9SwPV_knuEitCKNMrbQ6wS6MHaO55A&s);
+    background-size: cover;
+    color: white;
+    
+}
+.display-4{
+    text-emphasis-color: white;
+
+}
